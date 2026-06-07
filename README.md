@@ -1,5 +1,4 @@
-\# Proyecto Arduino: LED parpadeante
-
+\# Sistema Automatizado: Control de LED con Arduino
 
 
 Este proyecto enciende y apaga un LED cada 1 segundo usando una placa Arduino.
@@ -79,4 +78,4 @@ void loop()
 }
 
 .ino`.
-
+## Cambio del titulo
